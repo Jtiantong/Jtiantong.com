@@ -18,7 +18,8 @@
 	 IT技能： Matlab、Microsoft Office、Autocad、Protels、Protues、Mysql	
          电子技能：电子工艺实习、金工实习、掌握电子基础
 ```
-##  项目经历 
+## 项目经历
+
 ```markdown
   #基于Arduino和微信小程序的智能花植系统	    2012.12 - 2013.06	
   硬件开发
